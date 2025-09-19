@@ -1,0 +1,178 @@
+[
+  {
+    "timestamp": "2025-09-05T22:38:31.709319",
+    "gpu": "RTX4090-24GB",
+    "model": "qwen2.5-coder:32b",
+    "context_label": "1k",
+    "prompt_file": "context_prompts/small/prompt_1k.txt",
+    "word_count": 771,
+    "estimated_tokens": 1025,
+    "prompt_tokens": 1135,
+    "prompt_speed": 2146.145572561998,
+    "ttft": 0.5288550853729248,
+    "completion_tokens": 889,
+    "completion_speed": 36.125787009771145,
+    "total_duration": 25.137328386306763,
+    "memory_stats": {
+      "max_memory_mb": 20921,
+      "avg_memory_mb": 20920.957446808512,
+      "samples": 47
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-09-05T22:39:21.623109",
+    "gpu": "RTX4090-24GB",
+    "model": "qwen2.5-coder:32b",
+    "context_label": "2k",
+    "prompt_file": "context_prompts/small/prompt_2k.txt",
+    "word_count": 1538,
+    "estimated_tokens": 2045,
+    "prompt_tokens": 2246,
+    "prompt_speed": 2107.065339019331,
+    "ttft": 1.0659375190734863,
+    "completion_tokens": 672,
+    "completion_speed": 35.48680201180141,
+    "total_duration": 20.00256657600403,
+    "memory_stats": {
+      "max_memory_mb": 20961,
+      "avg_memory_mb": 20961.0,
+      "samples": 38
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-09-05T22:40:03.915313",
+    "gpu": "RTX4090-24GB",
+    "model": "qwen2.5-coder:32b",
+    "context_label": "4k",
+    "prompt_file": "context_prompts/small/prompt_4k.txt",
+    "word_count": 3073,
+    "estimated_tokens": 4087,
+    "prompt_tokens": 4096,
+    "prompt_speed": 1925.2977856553464,
+    "ttft": 2.1274631023406982,
+    "completion_tokens": 471,
+    "completion_speed": 34.67904866164613,
+    "total_duration": 15.709197044372559,
+    "memory_stats": {
+      "max_memory_mb": 21039,
+      "avg_memory_mb": 21039.0,
+      "samples": 29
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-09-05T22:40:52.114642",
+    "gpu": "RTX4090-24GB",
+    "model": "qwen2.5-coder:32b",
+    "context_label": "8k",
+    "prompt_file": "context_prompts/small/prompt_8k.txt",
+    "word_count": 6146,
+    "estimated_tokens": 8174,
+    "prompt_tokens": 4096,
+    "prompt_speed": 1791.122012410756,
+    "ttft": 2.286834716796875,
+    "completion_tokens": 614,
+    "completion_speed": 34.71149853426862,
+    "total_duration": 19.97550868988037,
+    "memory_stats": {
+      "max_memory_mb": 21041,
+      "avg_memory_mb": 21040.947368421053,
+      "samples": 38
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-09-05T22:41:34.956128",
+    "gpu": "RTX4090-24GB",
+    "model": "qwen2.5-coder:32b",
+    "context_label": "16k",
+    "prompt_file": "context_prompts/medium/prompt_16k.txt",
+    "word_count": 12295,
+    "estimated_tokens": 16352,
+    "prompt_tokens": 4096,
+    "prompt_speed": 1862.5882089679426,
+    "ttft": 2.1990904808044434,
+    "completion_tokens": 492,
+    "completion_speed": 34.687096554645784,
+    "total_duration": 16.383052110671997,
+    "memory_stats": {
+      "max_memory_mb": 21041,
+      "avg_memory_mb": 21041.0,
+      "samples": 31
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-09-05T22:42:14.589711",
+    "gpu": "RTX4090-24GB",
+    "model": "qwen2.5-coder:32b",
+    "context_label": "32k",
+    "prompt_file": "context_prompts/medium/prompt_32k.txt",
+    "word_count": 24579,
+    "estimated_tokens": 32690,
+    "prompt_tokens": 4096,
+    "prompt_speed": 1781.734713859834,
+    "ttft": 2.2988831996917725,
+    "completion_tokens": 406,
+    "completion_speed": 34.709794885386614,
+    "total_duration": 13.995880842208862,
+    "memory_stats": {
+      "max_memory_mb": 21041,
+      "avg_memory_mb": 21041.0,
+      "samples": 27
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-09-05T22:42:53.078512",
+    "gpu": "RTX4090-24GB",
+    "model": "qwen2.5-coder:32b",
+    "context_label": "48k",
+    "prompt_file": "context_prompts/medium/prompt_48k.txt",
+    "word_count": 36871,
+    "estimated_tokens": 49038,
+    "prompt_tokens": 4096,
+    "prompt_speed": 1708.278940011807,
+    "ttft": 2.3977348804473877,
+    "completion_tokens": 413,
+    "completion_speed": 34.66430897670495,
+    "total_duration": 14.312018632888794,
+    "memory_stats": {
+      "max_memory_mb": 21041,
+      "avg_memory_mb": 21041.0,
+      "samples": 27
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-09-05T22:43:34.760088",
+    "gpu": "RTX4090-24GB",
+    "model": "qwen2.5-coder:32b",
+    "context_label": "64k",
+    "prompt_file": "context_prompts/medium/prompt_64k.txt",
+    "word_count": 49161,
+    "estimated_tokens": 65384,
+    "prompt_tokens": 4096,
+    "prompt_speed": 1641.3554779796345,
+    "ttft": 2.4954984188079834,
+    "completion_tokens": 463,
+    "completion_speed": 34.74088530704644,
+    "total_duration": 15.822746276855469,
+    "memory_stats": {
+      "max_memory_mb": 21041,
+      "avg_memory_mb": 21041.0,
+      "samples": 30
+    },
+    "success": true,
+    "error": null
+  }
+]

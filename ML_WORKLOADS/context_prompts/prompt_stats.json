@@ -1,0 +1,146 @@
+[
+  {
+    "category": "small",
+    "label": "1k",
+    "target_tokens": 1024,
+    "actual_words": 771,
+    "estimated_tokens": 1025,
+    "file_size_mb": 0.006188392639160156,
+    "filename": "context_prompts/small/prompt_1k.txt"
+  },
+  {
+    "category": "small",
+    "label": "2k",
+    "target_tokens": 2048,
+    "actual_words": 1538,
+    "estimated_tokens": 2045,
+    "file_size_mb": 0.012356758117675781,
+    "filename": "context_prompts/small/prompt_2k.txt"
+  },
+  {
+    "category": "small",
+    "label": "4k",
+    "target_tokens": 4096,
+    "actual_words": 3073,
+    "estimated_tokens": 4087,
+    "file_size_mb": 0.024376869201660156,
+    "filename": "context_prompts/small/prompt_4k.txt"
+  },
+  {
+    "category": "small",
+    "label": "8k",
+    "target_tokens": 8192,
+    "actual_words": 6146,
+    "estimated_tokens": 8174,
+    "file_size_mb": 0.049384117126464844,
+    "filename": "context_prompts/small/prompt_8k.txt"
+  },
+  {
+    "category": "medium",
+    "label": "16k",
+    "target_tokens": 16384,
+    "actual_words": 12295,
+    "estimated_tokens": 16352,
+    "file_size_mb": 0.09761619567871094,
+    "filename": "context_prompts/medium/prompt_16k.txt"
+  },
+  {
+    "category": "medium",
+    "label": "32k",
+    "target_tokens": 32768,
+    "actual_words": 24579,
+    "estimated_tokens": 32690,
+    "file_size_mb": 0.19556427001953125,
+    "filename": "context_prompts/medium/prompt_32k.txt"
+  },
+  {
+    "category": "medium",
+    "label": "48k",
+    "target_tokens": 49152,
+    "actual_words": 36871,
+    "estimated_tokens": 49038,
+    "file_size_mb": 0.2942171096801758,
+    "filename": "context_prompts/medium/prompt_48k.txt"
+  },
+  {
+    "category": "medium",
+    "label": "64k",
+    "target_tokens": 65536,
+    "actual_words": 49161,
+    "estimated_tokens": 65384,
+    "file_size_mb": 0.39240169525146484,
+    "filename": "context_prompts/medium/prompt_64k.txt"
+  },
+  {
+    "category": "large",
+    "label": "96k",
+    "target_tokens": 98304,
+    "actual_words": 73741,
+    "estimated_tokens": 98075,
+    "file_size_mb": 0.5876274108886719,
+    "filename": "context_prompts/large/prompt_96k.txt"
+  },
+  {
+    "category": "large",
+    "label": "128k",
+    "target_tokens": 131072,
+    "actual_words": 98310,
+    "estimated_tokens": 130752,
+    "file_size_mb": 0.7850284576416016,
+    "filename": "context_prompts/large/prompt_128k.txt"
+  },
+  {
+    "category": "large",
+    "label": "192k",
+    "target_tokens": 196608,
+    "actual_words": 147460,
+    "estimated_tokens": 196121,
+    "file_size_mb": 1.1793956756591797,
+    "filename": "context_prompts/large/prompt_192k.txt"
+  },
+  {
+    "category": "large",
+    "label": "256k",
+    "target_tokens": 262144,
+    "actual_words": 196610,
+    "estimated_tokens": 261491,
+    "file_size_mb": 1.5690412521362305,
+    "filename": "context_prompts/large/prompt_256k.txt"
+  },
+  {
+    "category": "extreme",
+    "label": "384k",
+    "target_tokens": 393216,
+    "actual_words": 294916,
+    "estimated_tokens": 392238,
+    "file_size_mb": 2.3520050048828125,
+    "filename": "context_prompts/extreme/prompt_384k.txt"
+  },
+  {
+    "category": "extreme",
+    "label": "512k",
+    "target_tokens": 524288,
+    "actual_words": 393217,
+    "estimated_tokens": 522978,
+    "file_size_mb": 3.134963035583496,
+    "filename": "context_prompts/extreme/prompt_512k.txt"
+  },
+  {
+    "category": "extreme",
+    "label": "768k",
+    "target_tokens": 786432,
+    "actual_words": 589831,
+    "estimated_tokens": 784475,
+    "file_size_mb": 4.7035980224609375,
+    "filename": "context_prompts/extreme/prompt_768k.txt"
+  },
+  {
+    "category": "extreme",
+    "label": "1M",
+    "target_tokens": 1048576,
+    "actual_words": 786438,
+    "estimated_tokens": 1045962,
+    "file_size_mb": 6.2782440185546875,
+    "filename": "context_prompts/extreme/prompt_1M.txt"
+  }
+]

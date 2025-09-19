@@ -1,0 +1,18 @@
+2025-09-06 09:43:09
+GPU: RTX4090
+Model: mistral-small3.2:latest
+
+| GPU | Model | Prompt Tokens | PP/s | TTFT | Generated Tokens | TG/s | Duration |
+| --- | ----- | ------------- | ---- | ---- | ---------------- | ---- | -------- |
+| RTX4090 | mistral-small3.2:latest | 469 | 2157.45 | 0.22 | 882 | 43.16 | 20.65 |
+| RTX4090 | mistral-small3.2:latest | 724 | 2671.39 | 0.27 | 635 | 43.01 | 15.04 |
+| RTX4090 | mistral-small3.2:latest | 1146 | 2916.25 | 0.39 | 757 | 41.85 | 18.48 |
+| RTX4090 | mistral-small3.2:latest | 1846 | 3067.85 | 0.60 | 722 | 41.68 | 17.92 |
+| RTX4090 | mistral-small3.2:latest | 3085 | 2962.41 | 1.04 | 496 | 41.10 | 13.11 |
+| RTX4090 | mistral-small3.2:latest | 4096 | 2915.63 | 1.40 | 551 | 40.87 | 14.89 |
+| RTX4090 | mistral-small3.2:latest | 4096 | 2884.50 | 1.42 | 405 | 40.67 | 11.38 |
+| RTX4090 | mistral-small3.2:latest | 4096 | 2862.77 | 1.43 | 579 | 40.47 | 15.74 |
+| RTX4090 | mistral-small3.2:latest | 4096 | 2794.28 | 1.47 | 606 | 40.93 | 16.27 |
+| RTX4090 | mistral-small3.2:latest | 4096 | 2742.56 | 1.49 | 551 | 40.91 | 14.96 |
+
+Total duration: 4m8s

@@ -1,0 +1,18 @@
+2025-09-04 15:44:04
+GPU: A6000-24GB
+Model: mistral-small3.2:latest
+
+| GPU | Model | Prompt Tokens | PP/s | TTFT | Generated Tokens | TG/s | Duration |
+| --- | ----- | ------------- | ---- | ---- | ---------------- | ---- | -------- |
+| A6000-24GB | mistral-small3.2:latest | 469 | 1169.37 | 0.40 | 1028 | 35.88 | 29.05 |
+| A6000-24GB | mistral-small3.2:latest | 724 | 1338.29 | 0.54 | 788 | 35.83 | 22.53 |
+| A6000-24GB | mistral-small3.2:latest | 1146 | 1381.27 | 0.83 | 715 | 34.45 | 21.58 |
+| A6000-24GB | mistral-small3.2:latest | 1846 | 1392.77 | 1.33 | 822 | 34.10 | 25.43 |
+| A6000-24GB | mistral-small3.2:latest | 3085 | 1345.77 | 2.29 | 499 | 33.41 | 17.23 |
+| A6000-24GB | mistral-small3.2:latest | 4096 | 1331.27 | 3.08 | 569 | 33.11 | 20.26 |
+| A6000-24GB | mistral-small3.2:latest | 4096 | 1327.21 | 3.09 | 676 | 33.10 | 23.51 |
+| A6000-24GB | mistral-small3.2:latest | 4096 | 1317.85 | 3.11 | 516 | 33.10 | 18.69 |
+| A6000-24GB | mistral-small3.2:latest | 4096 | 1309.05 | 3.13 | 622 | 33.12 | 21.91 |
+| A6000-24GB | mistral-small3.2:latest | 4096 | 1291.78 | 3.17 | 638 | 32.98 | 22.51 |
+
+Total duration: 5m12s

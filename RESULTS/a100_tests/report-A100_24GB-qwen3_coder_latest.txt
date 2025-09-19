@@ -1,0 +1,18 @@
+2025-09-04 10:36:13
+GPU: A100-24GB
+Model: qwen3-coder:latest
+
+| GPU | Model | Prompt Tokens | PP/s | TTFT | Generated Tokens | TG/s | Duration |
+| --- | ----- | ------------- | ---- | ---- | ---------------- | ---- | -------- |
+| A100-24GB | qwen3-coder:latest | 488 | 1520.12 | 0.32 | 596 | 88.91 | 7.02 |
+| A100-24GB | qwen3-coder:latest | 743 | 1477.42 | 0.50 | 943 | 87.27 | 11.31 |
+| A100-24GB | qwen3-coder:latest | 1176 | 1524.59 | 0.77 | 596 | 86.54 | 7.66 |
+| A100-24GB | qwen3-coder:latest | 1896 | 1637.85 | 1.16 | 627 | 84.44 | 8.58 |
+| A100-24GB | qwen3-coder:latest | 3156 | 1589.24 | 1.99 | 1291 | 80.40 | 18.04 |
+| A100-24GB | qwen3-coder:latest | 4096 | 1605.86 | 2.55 | 642 | 81.40 | 10.44 |
+| A100-24GB | qwen3-coder:latest | 4096 | 1601.81 | 2.56 | 902 | 81.28 | 13.65 |
+| A100-24GB | qwen3-coder:latest | 4096 | 1589.32 | 2.58 | 375 | 81.49 | 7.18 |
+| A100-24GB | qwen3-coder:latest | 4096 | 1572.07 | 2.61 | 1280 | 81.37 | 18.34 |
+| A100-24GB | qwen3-coder:latest | 4096 | 1541.31 | 2.66 | 1367 | 81.22 | 19.49 |
+
+Total duration: 3m31s

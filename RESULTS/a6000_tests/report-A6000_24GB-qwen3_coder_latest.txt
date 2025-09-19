@@ -1,0 +1,18 @@
+2025-09-04 15:39:58
+GPU: A6000-24GB
+Model: qwen3-coder:latest
+
+| GPU | Model | Prompt Tokens | PP/s | TTFT | Generated Tokens | TG/s | Duration |
+| --- | ----- | ------------- | ---- | ---- | ---------------- | ---- | -------- |
+| A6000-24GB | qwen3-coder:latest | 488 | 1637.11 | 0.30 | 517 | 97.17 | 5.62 |
+| A6000-24GB | qwen3-coder:latest | 743 | 1568.68 | 0.47 | 864 | 95.06 | 9.56 |
+| A6000-24GB | qwen3-coder:latest | 1176 | 1585.40 | 0.74 | 606 | 93.04 | 7.25 |
+| A6000-24GB | qwen3-coder:latest | 1896 | 1649.35 | 1.15 | 894 | 89.99 | 11.08 |
+| A6000-24GB | qwen3-coder:latest | 3156 | 1544.86 | 2.04 | 1080 | 84.10 | 14.88 |
+| A6000-24GB | qwen3-coder:latest | 4096 | 1508.12 | 2.72 | 1609 | 84.09 | 21.85 |
+| A6000-24GB | qwen3-coder:latest | 4096 | 1497.34 | 2.74 | 971 | 83.93 | 14.30 |
+| A6000-24GB | qwen3-coder:latest | 4096 | 1489.74 | 2.75 | 1196 | 83.89 | 17.01 |
+| A6000-24GB | qwen3-coder:latest | 4096 | 1471.38 | 2.78 | 1179 | 83.80 | 16.85 |
+| A6000-24GB | qwen3-coder:latest | 4096 | 1425.80 | 2.87 | 1815 | 83.63 | 24.58 |
+
+Total duration: 3m53s

@@ -1,0 +1,18 @@
+2025-09-06 09:39:53
+GPU: RTX4090
+Model: qwen3-coder:latest
+
+| GPU | Model | Prompt Tokens | PP/s | TTFT | Generated Tokens | TG/s | Duration |
+| --- | ----- | ------------- | ---- | ---- | ---------------- | ---- | -------- |
+| RTX4090 | qwen3-coder:latest | 488 | 2440.51 | 0.20 | 517 | 128.58 | 4.22 |
+| RTX4090 | qwen3-coder:latest | 743 | 2379.65 | 0.31 | 924 | 127.78 | 7.54 |
+| RTX4090 | qwen3-coder:latest | 1176 | 2480.99 | 0.47 | 599 | 126.63 | 5.20 |
+| RTX4090 | qwen3-coder:latest | 1896 | 2579.45 | 0.74 | 804 | 123.28 | 7.26 |
+| RTX4090 | qwen3-coder:latest | 3156 | 2469.43 | 1.28 | 1136 | 116.59 | 11.02 |
+| RTX4090 | qwen3-coder:latest | 4096 | 2434.53 | 1.68 | 1303 | 118.11 | 12.71 |
+| RTX4090 | qwen3-coder:latest | 4096 | 2441.44 | 1.68 | 1064 | 118.15 | 10.68 |
+| RTX4090 | qwen3-coder:latest | 4096 | 2384.36 | 1.72 | 1287 | 117.76 | 12.65 |
+| RTX4090 | qwen3-coder:latest | 4096 | 2355.71 | 1.74 | 1210 | 117.82 | 12.01 |
+| RTX4090 | qwen3-coder:latest | 4096 | 2258.27 | 1.81 | 913 | 118.07 | 9.55 |
+
+Total duration: 3m2s
