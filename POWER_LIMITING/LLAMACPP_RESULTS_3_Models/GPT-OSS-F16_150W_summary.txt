@@ -1,0 +1,14 @@
+=== PRE-BENCH GPU STATE ===
+0, 35.49, 210, 405, 44, 0, 1, 49140, 30
+1, 21.05, 210, 405, 51, 0, 1, 49140, 31
+
+=== POST-BENCH GPU STATE ===
+0, 49.08, 210, 810, 45, 0, 1, 49140, 30
+1, 41.16, 225, 810, 52, 0, 1, 49140, 30
+
+Benchmark duration: 217s
+
+=== GPU MONITOR STATS ===
+Avg Power: 114.2W | Max Power: 157.0W
+Avg Temp: 49.9C | Max Temp: 61.0C
+Avg SM Util: 0.0% | Max SM Util: 0.0%

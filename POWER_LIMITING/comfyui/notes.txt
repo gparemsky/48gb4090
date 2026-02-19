@@ -1,0 +1,1 @@
+comfy saw no performance loss when power limited from 450w to 350w, wan2.2 generation times stayed the same. Benefit: cooler card, less noise, less power, lasts longer, same vram and core performance.

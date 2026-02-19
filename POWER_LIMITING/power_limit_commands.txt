@@ -1,0 +1,13 @@
+sudo nvidia-smi -pl <wattage>
+
+eg: sudo nvidia-smi -pl 350
+
+Also make sure persistence mode is on (keeps the driver loaded even when no apps are using the GPU):
+sudo nvidia-smi -pm 1
+
+or enable the built in servie:
+sudo systemctl enable nvidia-persistenced
+
+If you have multiple GPUs, you can target a specific one with -i (gpu# obtained from: nvidia-smi -L)
+sudo nvidia-smi -i 0 -pl 350
+sudo nvidia-smi -i 1 -pl 300

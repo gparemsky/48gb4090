@@ -1,0 +1,32 @@
+Octane version:
+2025.2.1 (14020100)
+
+Operating system:
+Windows 10 64-bit
+Driver version:
+591.74
+
+Hardware ray-tracing enabled:
+yes
+
+Devices:
+NVIDIA GeForce RTX 4090, 48GB, has HW ray-tracing
+NVIDIA GeForce RTX 4090, 48GB, has HW ray-tracing
+
+Total score:
+2131.599828
+
+
+                    Scene,          Kernel,         Ms/s,  GTX980 Ms/s,    Ratio,   Weight,        Score
+Interior (by Julia Lynen),   info channels,  1512.525455,        51.52,   29.358,       10,    73.395063
+Interior (by Julia Lynen), direct lighting,   379.997980,        17.80,   21.348,       40,   213.482011
+Interior (by Julia Lynen),    path tracing,   187.656025,         8.54,   21.974,       50,   274.672168
+ Idea (by Julio Cayetaño),   info channels,  1586.244685,        85.99,   18.447,       10,    46.117127
+ Idea (by Julio Cayetaño), direct lighting,   373.806816,        21.05,   17.758,       40,   177.580435
+ Idea (by Julio Cayetaño),    path tracing,   322.730408,        19.38,   16.653,       50,   208.159448
+ATV (by Jürgen Aleksejev),   info channels,  1565.094688,        31.39,   49.860,       10,   124.649147
+ATV (by Jürgen Aleksejev), direct lighting,   354.420755,        15.21,   23.302,       40,   233.018248
+ATV (by Jürgen Aleksejev),    path tracing,   294.206993,        12.92,   22.771,       50,   284.642989
+   Box (by Enrico Cerica),   info channels,  1778.480326,        65.75,   27.049,       10,    67.622826
+   Box (by Enrico Cerica), direct lighting,   278.118297,        13.84,   20.095,       40,   200.952527
+   Box (by Enrico Cerica),    path tracing,   244.583236,        13.45,   18.185,       50,   227.307840

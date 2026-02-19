@@ -1,0 +1,20 @@
+GPvLab Power Limit Benchmark
+Date: Tue Feb 17 14:50:05 UTC 2026
+Host: bench4
+Kernel: 6.8.0-100-generic
+Driver: 580.126.09
+
+GPUs:
+index, name, memory.total [MiB], power.default_limit [W], pcie.link.gen.current, pcie.link.width.current
+0, NVIDIA GeForce RTX 4090, 49140 MiB, 450.00 W, 1, 16
+1, NVIDIA GeForce RTX 4090, 49140 MiB, 450.00 W, 1, 16
+
+Power Limits Tested: 450 350 250 150
+Context Sizes (pp): 512,2048,4096,8192,16384,32768
+Generation Sizes (tg): 128,512
+Repetitions: 3
+
+Models:
+  DeepSeek-R1-Distill-70B|/mnt/shared/DeepSeek-R1-70B-00001-of-00002.gguf|reasoning|Sharded dense reasoning model
+  Qwen2.5-72B-Q4KM|/mnt/shared/qwen25-q4_k_m.gguf|dense|Standard dense autoregressive
+  GPT-OSS-F16|/mnt/shared/gpt_oss-f16.gguf|moe|MoE sparse activation model
